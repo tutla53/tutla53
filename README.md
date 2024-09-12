@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact" align="left"/>
 <!--
 **tutla53/tutla53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
