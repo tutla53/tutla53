@@ -17,7 +17,7 @@
     
 - Raspberry Pi Pico RP2040 --> [rp2040-c](https://github.com/tutla53/rp2040)
   - Language: C
-  - Hardware Abstraction Layer: Raspberry Pi Pico SDK
+  - Low-Level Hardware Library: Raspberry Pi Pico SDK
   - Framework: FreeRTOS
 
 <!--
