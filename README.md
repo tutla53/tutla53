@@ -1,9 +1,10 @@
 ## Hi there 👋
 #### I am currently working on embedded project with STM32 and Raspberry Pi Pico RP2040 for hobby. 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.5" align="right"/>
 
 #### Project Template:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.5" align="right"/>
+
 - STM32F103C8T6 (Bluepill) [stm32f1-c-template](https://github.com/tutla53/stm32f1-c-template)
   - Language: C
   - Low-Level Hardware Library: libopencm3
