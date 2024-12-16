@@ -29,6 +29,6 @@
 
 
 #### Current Project:
-- [Bluetooth 2 DOF Camera Monitor Robot](https://github.com/tutla53/camera-monitor-robot) &#8594; Rust + Embassy-rs
+- [Bluetooth 2 DOF Camera Monitor Robot](https://github.com/tutla53/camera-monitor-robot) &#8594; (Raspberry Pico + Rust + Embassy-rs) & (STM32F103C8T6 + C + FreeRTOS + libopencm3)
 - [3 DOF Robotic Arm](https://github.com/tutla53/robot-arm-pico-sdk) &#8594; C + FreeRTOS + Pico SDK
 - [timer-control](https://github.com/tutla53/timer-control) &#8594; C + FreeRTOS + libopencm3
