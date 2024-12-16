@@ -12,7 +12,9 @@
 
 - STM32F103C8T6 (Bluepill) &#8594; [stm32f1-c-template](https://github.com/tutla53/stm32f1-c-template)
   - Language: C
-  - Low-Level Hardware Library: libopencm3
+  - Low-Level Hardware Library:
+     - libopencm3
+     - [STM32F103C8T6](https://github.com/tutla53/stm32f1-c-template.git) forked from [Warren Gay](https://github.com/ve3wwg)
   - Framework: FreeRTOS
 
 * Raspberry Pi Pico RP2040 &#8594; [rp2040-rust](https://github.com/tutla53/rp2040-rust)
