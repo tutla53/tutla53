@@ -29,6 +29,7 @@
 
 
 #### Current Project:
+- [Wireless 2 DOF Camera Monitor Robot](https://github.com/tutla53/pico-w-tcp.git) &#8594; Raspberry Pi Pico W RP2040 via TCP Server
 - [Bluetooth 2 DOF Camera Monitor Robot](https://github.com/tutla53/camera-monitor-robot) &#8594; Raspberry Pi Pico RP2040 & STM32F103C8T6 Blue Pill
 - [3 DOF Robotic Arm](https://github.com/tutla53/robot-arm-pico-sdk) &#8594; C + FreeRTOS + Pico SDK
 - [timer-control](https://github.com/tutla53/timer-control) &#8594; C + FreeRTOS + libopencm3
