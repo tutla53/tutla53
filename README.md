@@ -13,7 +13,7 @@
 <table>
 <tr> <th> Board                                   </th> <th> Language    </th> <th> HAL                    </th> <th> Framework  </th> <th> Template Repository           </th> </tr>
 <tr> <td> STM32F103C8T6 (Blue Pill)               </td> <td> C           </td> <td> libopencm3             </td> <td> FreeRTOS   </td> <td> <a href="https://github.com/tutla53/stm32f1-c-template">stm32f1-c-template</a>   </td> </tr>
-<tr> <td rowspan = "2"> Raspberry Pi Pico RP2040  </td> <td> C           </td> <td> Raspberry Pi Pico SDK  </td> <td> FreeRTOS   </td> <td> <a href=https://github.com/tutla53/rp2040">rp2040-c</a>   </td></tr>
+<tr> <td rowspan = "2"> Raspberry Pi Pico RP2040  </td> <td> C           </td> <td> Raspberry Pi Pico SDK  </td> <td> FreeRTOS   </td> <td> <a href=https://github.com/tutla53/rp2040>rp2040-c</a>   </td></tr>
 <tr>                                               <td> Rust 🦀         </td> <td> Embassy Embedded HAL   </td> <td> embassy-rs </td> <td> <a href="https://github.com/tutla53/rp2040-rust">rp2040-rust</a>   </td></tr>
   
 </table>
