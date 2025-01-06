@@ -21,22 +21,22 @@
   <th> Repository</th> 
 </tr>
 <tr> 
-  <td rowspan = "2"> Bluetooth 2 DOF Camera Monitor </td> 
-  <td> Raspberry Pi Pico RP2040 </td>
+  <td rowspan = "2"> Two DOF Camera Monitor - Bluetooth Version</td> 
+  <td> Raspberry Pi Pico RP2040 (Robot) </td>
   <td> Rust 🦀           </td>
   <td> Embassy Embedded HAL  </td>
   <td> embassy-rs   </td> 
   <td rowspan="2"> <a href= https://github.com/tutla53/camera-monitor-robot>camera-monitor-robot</a>   </td>
 </tr>
 <tr>
-  <td> STM32F103C8T6 (Blue Pill) </td> 
+  <td> STM32F103C8T6 (Blue Pill) (Remote) </td> 
   <td> C         </td> 
   <td> libopencm3   </td> 
   <td> FreeRTOS </td> 
   </tr>
 <tr> 
-  <td> WIFI 2 DOF Camera Monitor     </td> 
-  <td> Raspberry Pi Pico W RP2040 </td> 
+  <td> Two DOF Camera Monitor - WIFI Version     </td> 
+  <td> Raspberry Pi Pico W RP2040 (TCP Server) </td> 
   <td> Rust 🦀           </td>
   <td> Embassy Embedded HAL  </td>
   <td> embassy-rs   </td> 
