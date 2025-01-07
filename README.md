@@ -26,14 +26,14 @@
   <td> Rust 🦀           </td>
   <td> Embassy Embedded HAL  </td>
   <td> embassy-rs   </td> 
-  <td> <a href= https://github.com/tutla53/camera-monitor-robot>camera-monitor-robot</a>   </td>
+  <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a>   </td>
 </tr>
 <tr>
   <td> STM32F103C8T6 (Blue Pill) (Remote) </td> 
   <td> C         </td> 
   <td> libopencm3   </td> 
   <td> FreeRTOS </td>
-  <td> <a href=https://github.com/tutla53/remote-control-stm32.git> remote-control-stm32</a> </td>
+  <td> <a href="https://github.com/tutla53/remote-control-stm32.git"> remote-control-stm32</a> </td>
   </tr>
 <tr> 
   <td> Two DOF Camera Monitor - WIFI Version     </td> 
@@ -41,7 +41,7 @@
   <td> Rust 🦀           </td>
   <td> Embassy Embedded HAL  </td>
   <td> embassy-rs   </td> 
-  <td> <a href="https://github.com/tutla53/pico-w-tcp">pico-w-tcp</a>   </td> 
+  <td> <a href="https://github.com/tutla53/wifi-camera-monitor.git">wifi-camera-monitor</a>   </td> 
 </tr>
 </table>
 
