@@ -21,7 +21,7 @@
   <th> Repository</th> 
 </tr>
 <tr> 
-  <td rowspan = "2"> Two DOF Camera Monitor - Bluetooth Version</td> 
+  <td rowspan = "2"> Two DOF Camera Monitor - HC-05 Bluetooth Version</td> 
   <td> Raspberry Pi Pico RP2040 (Robot) </td>
   <td> Rust 🦀           </td>
   <td> Embassy Embedded HAL  </td>
