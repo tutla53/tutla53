@@ -13,7 +13,8 @@
 #### Active Project:
 <table>
 <tr> 
-  <th> Project </th> 
+  <th> Project </th>
+  <th> Version </th>
   <th> Board</th> 
   <th> Language</th> 
   <th> HAL</th> 
@@ -21,7 +22,8 @@
   <th> Repository</th> 
 </tr>
 <tr> 
-  <td rowspan = "2"> Two DOF Camera Monitor - HC-05 Bluetooth Version</td> 
+  <td rowspan = "4"> Two DOF Camera Monitor</td> 
+  <td rowspan = "2"> HC-05 Bluetooth</td>
   <td> Raspberry Pi Pico RP2040 (Robot) </td>
   <td> Rust 🦀           </td>
   <td> Embassy Embedded HAL  </td>
@@ -36,8 +38,16 @@
   <td> <a href="https://github.com/tutla53/remote-control-stm32.git"> remote-control-stm32</a> </td>
   </tr>
 <tr> 
-  <td> Two DOF Camera Monitor - WIFI Version     </td> 
-  <td> Raspberry Pi Pico W RP2040 (TCP Server) </td> 
+  <td> YK04 - RF Transmitter </td>
+  <td> Raspberry Pi Pico W RP2040</td> 
+  <td> Rust 🦀           </td>
+  <td> Embassy Embedded HAL  </td>
+  <td> embassy-rs   </td> 
+  <td> <a href="https://github.com/tutla53/camera-monitor-robot/tree/rf-remote">rf-camera-monitor</a>   </td> 
+</tr>
+<tr> 
+  <td> WIFI - TCP Server </td>
+  <td> Raspberry Pi Pico W RP2040</td> 
   <td> Rust 🦀           </td>
   <td> Embassy Embedded HAL  </td>
   <td> embassy-rs   </td> 
