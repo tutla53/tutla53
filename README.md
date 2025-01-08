@@ -35,7 +35,7 @@
   <td> <a href="https://github.com/tutla53/remote-control-stm32.git"> remote-control-stm32</a> </td>
   </tr>
 <tr> 
-  <td> YK04 - RF Transmitter </td>
+  <td> YK04 - RF Transceiver </td>
   <td> Raspberry Pi Pico W RP2040</td> 
   <td> Rust </td>
   <td> embassy-rs   </td> 
