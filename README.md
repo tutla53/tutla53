@@ -39,7 +39,7 @@
   <td> Raspberry Pi Pico W RP2040</td> 
   <td> Rust </td>
   <td> embassy-rs   </td> 
-  <td> <a href="https://github.com/tutla53/camera-monitor-robot/tree/rf-remote">rf-camera-monitor</a>   </td> 
+  <td> <a href="https://github.com/tutla53/rf-camera-monitor">rf-camera-monitor</a>   </td> 
 </tr>
 <tr> 
   <td> WIFI - TCP Server </td>
