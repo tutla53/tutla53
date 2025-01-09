@@ -28,7 +28,7 @@
         <li>YK04 - RF Transceiver</li>
       </ul> 
     </td>
-    <td> Raspberry Pi Pico RP2040 (Robot) </td>
+    <td> Raspberry Pi Pico RP2040</td>
     <td> Rust 🦀</td>
     <td> embassy-rs   </td> 
     <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a>   </td>
