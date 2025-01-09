@@ -29,7 +29,7 @@
       </ul> 
     </td>
     <td> Raspberry Pi Pico RP2040 (Robot) </td>
-    <td> Rust </td>
+    <td> Rust 🦀</td>
     <td> embassy-rs   </td> 
     <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a>   </td>
   </tr>
@@ -57,7 +57,7 @@
     --->
   </td> 
   <td> Raspberry Pi Pico RP2040</td>
-  <td> Rust </td>
+  <td> Rust 🦀</td>
   <td> Embassy Embedded HAL  </td>
   <td> embassy-rs   </td> 
 </tr>
