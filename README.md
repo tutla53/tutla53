@@ -28,15 +28,19 @@
         <li>YK04 - RF Transceiver</li>
       </ul> 
     </td>
-    <td> Raspberry Pi Pico RP2040</td>
+    <td> Raspberry Pi Pico<br>RP2040</td>
     <td> Rust 🦀</td>
     <td> embassy-rs   </td> 
     <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a>   </td>
   </tr>
   <tr> 
     <td> Bluetooth Remote Control</td> 
-    <td> HC-05 - Bluetooth</td>
-    <td> STM32F103C8T6 (Blue Pill)</td>
+    <td> 
+      <ul>
+      <li> HC-05 - Bluetooth </li>
+      <ul>
+    </td>
+    <td> STM32F103C8T6<br>Blue Pill</td>
     <td> C</td>
     <td> FreeRTOS </td> 
     <td> <a href="https://github.com/tutla53/remote-control-stm32.git">remote-control-stm32</a>   </td>
