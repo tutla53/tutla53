@@ -12,42 +12,27 @@
 
 #### Active Project:
 <table>
-<tr> 
-  <th> Project </th>
-  <th> Version </th>
-  <th> Board</th> 
-  <th> Language</th> 
-  <th> Framework</th> 
-  <th> Repository</th> 
-</tr>
-<tr> 
-  <td rowspan = "4"> Two DOF Camera Monitor</td> 
-  <td rowspan = "2"> HC-05 Bluetooth</td>
-  <td> Raspberry Pi Pico RP2040 (Robot) </td>
-  <td> Rust </td>
-  <td> embassy-rs   </td> 
-  <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a>   </td>
-</tr>
-<tr>
-  <td> STM32F103C8T6 (Blue Pill) (Remote) </td> 
-  <td> C </td> 
-  <td> FreeRTOS </td>
-  <td> <a href="https://github.com/tutla53/remote-control-stm32.git"> remote-control-stm32</a> </td>
+  <tr> 
+    <th> Project </th>
+    <th> Communication </th>
+    <th> Board</th> 
+    <th> Language</th> 
+    <th> Framework</th> 
+    <th> Repository</th> 
   </tr>
-<tr> 
-  <td> YK04 - RF Transceiver </td>
-  <td> Raspberry Pi Pico W RP2040</td> 
-  <td> Rust </td>
-  <td> embassy-rs   </td> 
-  <td> <a href="https://github.com/tutla53/rf-camera-monitor">rf-camera-monitor</a>   </td> 
-</tr>
-<tr> 
-  <td> WIFI - TCP Server </td>
-  <td> Raspberry Pi Pico W RP2040</td> 
-  <td> Rust </td>
-  <td> embassy-rs   </td> 
-  <td> <a href="https://github.com/tutla53/wifi-camera-monitor.git">wifi-camera-monitor</a>   </td> 
-</tr>
+  <tr> 
+    <td> Two DOF Camera Monitor</td> 
+    <td> 
+      <ul>
+        <li>HC-05 - Bluetooth</li>
+        <li>YK04 - RF Transceiver</li>
+      </ul> 
+    </td>
+    <td> Raspberry Pi Pico RP2040 (Robot) </td>
+    <td> Rust </td>
+    <td> embassy-rs   </td> 
+    <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a>   </td>
+  </tr>
 </table>
 
 #### Embassy Library:
