@@ -7,6 +7,8 @@
 <img src ="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b0afbee-2dcd-4ab4-8cb9-659a0fabc755_359x198.png" height=28)>
 <img src ="https://m.media-amazon.com/images/S/abs-image-upload-na/d/AmazonStores/A1F83G8C2ARO7P/4087e55f2f303ebc54d6fa96c58fe3cc.w980.h290._CR0%2C47%2C980%2C196_SX980_.jpg" height=28)>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.5" align="center"/>
+
 #### Active Project:
 <table>
   <tr> 
@@ -71,6 +73,3 @@
 </tr>
 
 </table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.5" align="center"/>
-
