@@ -61,13 +61,11 @@
 </tr>
 <tr> 
   <td> <a href= https://github.com/tutla53/embassy-rp-library.git>embassy-rp-library</a> </td>
-  <td> 
-    rp2040-servo-pio
-    <!---
+  <td>
     <ul>
-      <li>rp2040-servo-pio</li>
+      <li>rp2040-servo (PWM Driver)</li>
+      <li>rp2040-servo-pio (PIO Driver)</li>
      </ul>  
-    --->
   </td> 
   <td> Raspberry Pi Pico RP2040</td>
   <td> Rust 🦀</td>
