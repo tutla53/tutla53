@@ -45,6 +45,20 @@
     <td> <a href="https://github.com/tutla53/remote-control-stm32.git">remote-control-stm32</a>   </td>
   </tr>
 
+  <tr> 
+    <td> Raspberry Pi Pico W - Webserver Template</td> 
+    <td> 
+      <ul>
+      <li> WIFI - CYW43 </li>
+      <ul>
+    </td>
+    <td> Raspberry Pi Pico W RP2040</td>
+    <td> Rust 🦀</td>
+    <td> embassy-rs   </td> 
+    
+  <td> <a href= https://github.com/tutla53/pico-server.git>pico-server</a> </td>
+  </tr>
+
 </table>
 
 #### Embassy Library:
@@ -71,5 +85,5 @@
   <td> Embassy Embedded HAL  </td>
   <td> embassy-rs   </td> 
 </tr>
-
+  
 </table>
