@@ -1,5 +1,7 @@
 ## Hi there 👋
-#### I am currently working on embedded project with STM32 and Raspberry Pi Pico RP2040 for hobby. 
+#### I am currently working on embedded project with Raspberry Pi Pico W RP2040, ESP32, and STM32 for hobby. 
+#### This is my journal to learn microcontroller with Real Time Operating System (RTOS)
+
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -9,68 +11,19 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.5" align="center"/>
 
-#### Active Project:
-<table>
-  <tr> 
-    <th> Project </th>
-    <th> Communication </th>
-    <th> Board</th> 
-    <th> Language</th> 
-    <th> Framework</th> 
-    <th> Repository</th> 
-  </tr>
-  <tr> 
-    <td> Two DOF Camera Monitor</td> 
-    <td> 
-      <ul>
-        <li>HC-05 - Bluetooth</li>
-        <li>YK04 - RF Transceiver</li>
-      </ul> 
-    </td>
-    <td> Raspberry Pi Pico<br>RP2040</td>
-    <td> Rust 🦀</td>
-    <td> embassy-rs   </td> 
-    <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a>   </td>
-  </tr>
-  <tr> 
-    <td> Bluetooth Remote Control</td> 
-    <td> 
-      <ul>
-      <li> HC-05 - Bluetooth </li>
-      <ul>
-    </td>
-    <td> STM32F103C8T6<br>Blue Pill</td>
-    <td> C</td>
-    <td> FreeRTOS </td> 
-    <td> <a href="https://github.com/tutla53/remote-control-stm32.git">remote-control-stm32</a>   </td>
-  </tr>
+### Software Configuration
+|Board|Language|HAL|RTOS|
+|-----|--------|---|----|
+|Raspberry Pi Pico W|Rust 🦀|embassy-rp|embassy-rs|
+|ESP32-C3 Mini|Rust 🦀|esp-hal|embassy-rs|
+|STM32F103C8T6 Blue Pill|C|libopencm3|FreeRTOS|
 
-  <tr> 
-    <td> Raspberry Pi Pico W - Webserver Template</td> 
-    <td> 
-      <ul>
-      <li> WIFI - CYW43 </li>
-      <ul>
-    </td>
-    <td> Raspberry Pi Pico W RP2040</td>
-    <td> Rust 🦀</td>
-    <td> embassy-rs   </td> 
-    
-  <td> <a href= https://github.com/tutla53/pico-server.git>pico-server</a> </td>
-  </tr>
-
-</table>
-
-#### Embassy Library:
-
+### Custom Embassy Library:
 <table>
 <tr> 
   <th> Repository</th> 
   <th> Library Item</th> 
   <th> Board</th> 
-  <th> Language</th> 
-  <th> HAL</th> 
-  <th> Framework</th> 
 </tr>
 <tr> 
   <td> <a href= https://github.com/tutla53/embassy-rp-library.git>embassy-rp-library</a> </td>
@@ -80,10 +33,61 @@
       <li>rp2040-servo-pio (PIO Driver)</li>
      </ul>  
   </td> 
-  <td> Raspberry Pi Pico RP2040</td>
-  <td> Rust 🦀</td>
-  <td> Embassy Embedded HAL  </td>
-  <td> embassy-rs   </td> 
+  <td> Raspberry Pi Pico W - RP2040</td>
 </tr>
   
 </table>
+
+### Active Project:
+
+<table>
+  <tr> 
+    <th> Board</th> 
+    <th> Project </th>
+    <th> Description </th>
+    <th> Repository</th> 
+  </tr>
+  <tr> 
+    <td> Raspberry Pi Pico</td>
+    <td> Two DOF Camera Monitor</td> 
+    <td> 
+      <ul>
+        <li>HC-05 - Bluetooth</li>
+        <li>YK04 - RF Transceiver</li>
+      </ul> 
+    </td>
+    <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a>   </td>
+  </tr>
+
+  <tr> 
+    <td> Raspberry Pi Pico W</td>
+    <td> Raspberry Pi Pico W - Webserver Template</td> 
+    <td> 
+      <ul>
+      <li> WIFI - CYW43 </li>
+      <ul>
+    </td>
+  <td> <a href= https://github.com/tutla53/pico-server.git>pico-server</a> </td>
+  </tr>
+  
+  <tr> 
+    <td> STM32F103C8T6 Blue Pill</td>
+    <td> Bluetooth Remote Control</td> 
+    <td> 
+      <ul>
+      <li> HC-05 - Bluetooth </li>
+      <ul>
+    </td>
+    <td> <a href="https://github.com/tutla53/remote-control-stm32.git">remote-control-stm32</a>   </td>
+  </tr>
+
+  <tr> 
+    <td> ESP32-C3 Mini</td>
+    <td> ESP32-C3 Mini - Webserver Template</td> 
+    <td> 
+    </td>
+    <td> <a href="https://github.com/tutla53/esp32c3-server">esp32c3-webserver</a>   </td>
+  </tr>
+
+</table>
+
