@@ -11,11 +11,12 @@
 <img src ="https://developer.espressif.com/img/espressif_logo_contour.png" height=28)>
 
 ### Software Configuration
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.5&card_width=10" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.5&card_width=10&line_height=10" align="right"/>
+
 <table>
   <tr> 
-    <th width=8> Board</th>
-    <th>Language</th>  
+    <th width=150> Board</th>
+    <th width=10>Language</th>  
     <th>HAL</th> 
     <th>RTOS</th> 
     <th>Template</th> 
