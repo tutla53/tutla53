@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I am currently working on embedded project with Raspberry Pi Pico W RP2040, ESP32, and STM32 for hobby. 
-- This is my personal journal to learn microcontroller mainly with Rust and Real Time Operating System (RTOS), and hopefully it can lead to develop an intelligence mobile robot with SLAM.
+- This is my personal journal to learn microcontroller mainly with Rust and Real Time Operating System (RTOS), and hopefully it can lead to the development of an intelligence mobile robot with SLAM.
 
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
