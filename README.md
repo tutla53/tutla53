@@ -15,8 +15,8 @@
 
 <table>
   <tr> 
-    <th width=150> Board</th>
-    <th width=10>Language</th>  
+    <th width=120> Board</th>
+    <th >Language</th>  
     <th>HAL</th> 
     <th>RTOS</th> 
     <th>Template</th> 
@@ -39,7 +39,7 @@
   </tr> 
 
   <tr>
-    <td>STM32F103C8T6 Blue Pill</td>
+    <td>STM32F1 Blue Pill</td>
     <td>C</td>
     <td>libopencm3</td>
     <td>FreeRTOS</td>
