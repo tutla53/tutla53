@@ -12,12 +12,39 @@
 
 ### Software Configuration
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.5&card_width=10" align="right"/>
+<table>
+  <tr> 
+    <th width=8> Board</th>
+    <th>Language</th>  
+    <th>HAL</th> 
+    <th>RTOS</th> 
+    <th>Template</th> 
+  </tr>
+  
+  <tr>
+    <td>Raspberry Pi Pico W</td>
+    <td>Rust 🦀</td>
+    <td>embassy-rp</td>
+    <td>embassy-rs</td>
+    <td> <a href= https://github.com/tutla53/pico-server.gitt>pico-server</a> </td>
+  </tr>  
 
-|Board|Language|HAL|RTOS|Template|
-|-----|--------|---|----|--------|
-|Raspberry Pi Pico W|Rust 🦀|embassy-rp|embassy-rs|![pico-server](https://github.com/tutla53/pico-server.git)|
-|ESP32-C3 Mini|Rust 🦀|esp-hal|embassy-rs|![esp32c3-server](https://github.com/tutla53/esp32c3-server)|
-|STM32F103C8T6 Blue Pill|C|libopencm3|FreeRTOS|![stm32-c-template](https://github.com/tutla53/stm32f1-c-template.git)|
+  <tr>
+    <td>ESP32-C3 Mini</td>
+    <td>Rust 🦀</td>
+    <td>esp-hal</td>
+    <td>embassy-rs</td>
+    <td> <a href= https://github.com/tutla53/esp32c3-server>esp32c3-server</a> </td>
+  </tr> 
+
+  <tr>
+    <td>STM32F103C8T6 Blue Pill</td>
+    <td>C</td>
+    <td>libopencm3</td>
+    <td>FreeRTOS</td>
+    <td> <a href= https://github.com/tutla53/stm32f1-c-template.git>stm32-c-template</a> </td>
+  </tr> 
+</table>
 
 ### Custom Embassy Library:
 <table>
