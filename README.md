@@ -15,26 +15,26 @@
 
 <table>
   <tr> 
-    <th width=120> Board</th>
-    <th >Language</th>  
-    <th>HAL</th> 
-    <th>RTOS</th> 
-    <th>Template</th> 
+    <th width=120> Board </th>
+    <th >Language </th>  
+    <th>HAL </th> 
+    <th>RTOS </th> 
+    <th>Template </th> 
   </tr>
   
   <tr>
-    <td>Raspberry Pi Pico W</td>
-    <td>Rust 🦀</td>
-    <td>embassy-rp</td>
-    <td>embassy-rs</td>
+    <td>Raspberry Pi Pico W </td>
+    <td>Rust 🦀 </td>
+    <td>embassy-rp </td>
+    <td>embassy-rs </td>
     <td> <a href= https://github.com/tutla53/pico-server.gitt>pico-server</a> </td>
   </tr>  
 
   <tr>
     <td>ESP32-C3 Mini</td>
-    <td>Rust 🦀</td>
-    <td>esp-hal</td>
-    <td>embassy-rs</td>
+    <td>Rust 🦀 </td>
+    <td>esp-hal </td>
+    <td>embassy-rs </td>
     <td> <a href= https://github.com/tutla53/esp32c3-server>esp32c3-server</a> </td>
   </tr> 
 
@@ -50,13 +50,13 @@
 ### Custom Embassy Library:
 <table>
   <tr> 
-    <th> Board</th>
-    <th> Library Item</th>  
-    <th> Repository</th> 
+    <th width=120> Board </th>
+    <th> Library Item </th>  
+    <th> Repository </th> 
   </tr>
   
   <tr> 
-    <td> Raspberry Pi Pico W</td>
+    <td> Raspberry Pi Pico W </td>
     <td>
       <ul>
         <li>rp2040-servo (PWM Driver)</li>
@@ -70,33 +70,24 @@
 ### Active Project:
 <table>
   <tr> 
-    <th> Board</th> 
+    <th width=120> Board </th> 
     <th> Project </th>
     <th> Description </th>
-    <th> Repository</th> 
+    <th> Repository </th> 
   </tr>
   
   <tr> 
-    <td> Raspberry Pi Pico</td>
-    <td> Two DOF Camera Monitor</td> 
-    <td> 
-      <ul>
-        <li>HC-05 - Bluetooth</li>
-        <li>YK04 - RF Transceiver</li>
-      </ul> 
-    </td>
-    <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a>   </td>
+    <td> Raspberry Pi Pico </td>
+    <td> Two DOF Camera Monitor </td> 
+    <td> Very simple 2 D.O.F camera monitor robot with two servo motors. This is my first project to use Rust + embassy-rs for microcontroller </td>
+    <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a> </td>
   </tr>
   
   <tr> 
-    <td> STM32F103C8T6 Blue Pill</td>
-    <td> Bluetooth Remote Control</td> 
-    <td> 
-      <ul>
-      <li> HC-05 - Bluetooth </li>
-      <ul>
-    </td>
-    <td> <a href="https://github.com/tutla53/remote-control-stm32.git">remote-control-stm32</a>   </td>
+    <td> STM32F1 Blue Pill </td>
+    <td> Bluetooth Remote Control </td> 
+    <td> General purpose bluetooth remote control with HC-05 and STM32F1 Blue Pill with the example to control Camera Monitor Project </td>
+    <td> <a href="https://github.com/tutla53/remote-control-stm32.git">remote-control-stm32</a> </td>
   </tr>
 </table>
 
