@@ -88,6 +88,13 @@
     <td> Bluetooth Remote Control </td> 
     <td> General purpose bluetooth remote control with HC-05 and STM32F1 Blue Pill with the example to control Camera Monitor Project </td>
     <td> <a href="https://github.com/tutla53/remote-control-stm32.git">remote-control-stm32</a> </td>
+  
+  </tr>
+    <tr> 
+    <td> ESP32-C3 & Raspberry Pi Pico W </td>
+    <td> TCP Communication </td> 
+    <td> Project to test TCP communication between ESP32-C3 and Raspberry Pi Pico W with embassy-net</td>
+    <td> <a href="https://github.com/tutla53/tcp-comm.git">tcp-comm</a> </td>
   </tr>
 </table>
 
