@@ -11,7 +11,7 @@
 <img src ="https://developer.espressif.com/img/espressif_logo_contour.png" height=28)>
 
 ### Software Configuration
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.75&exclude_repo=stm32f103c8t6,toki-tlx-c-solution" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.75&&card_width=10&line_height=10&exclude_repo=stm32f103c8t6,toki-tlx-c-solution" align="right"/>
 
 <table>
   <tr> 
