@@ -27,7 +27,7 @@
     <td>Rust 🦀 </td>
     <td>embassy-rp </td>
     <td>embassy-rs </td>
-    <td> <a href= https://github.com/tutla53/pico-server.gitt>pico-server</a> </td>
+    <td> <a href= https://github.com/tutla53/pico-server.git>pico-server</a> </td>
   </tr>  
 
   <tr>
@@ -35,7 +35,7 @@
     <td>Rust 🦀 </td>
     <td>esp-hal </td>
     <td>embassy-rs </td>
-    <td> <a href= https://github.com/tutla53/esp32c3-server>esp32c3-server</a> </td>
+    <td> <a href= https://github.com/tutla53/esp32c3-server.git>esp32c3-server</a> </td>
   </tr> 
 
   <tr>
