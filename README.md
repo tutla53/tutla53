@@ -68,12 +68,19 @@
 </table>
 
 ### Active Project:
-<table>
+<table
   <tr> 
     <th> Project </th>
     <th width=120> Board </th> 
     <th> Description </th>
     <th> Repository </th> 
+  </tr>
+
+  <tr> 
+    <td> DC Motor Control</td>
+    <td> Raspberry Pi Pico</td> 
+    <td> Controlling DC Motor Speed and Position with Rotary Encoder and PID Control</td>
+    <td> <a href="https://github.com/tutla53/dc-motor.git">dc-motor</a> </td>
   </tr>
   
   <tr> 
@@ -96,13 +103,7 @@
     <td> Project to test TCP communication between ESP32-C3 and Raspberry Pi Pico W with embassy-net</td>
     <td> <a href="https://github.com/tutla53/tcp-comm.git">tcp-comm</a> </td>
   </tr>
-
-  <tr> 
-    <td> DC Motor Control</td>
-    <td> Raspberry Pi Pico</td> 
-    <td> Controlling DC Motor Speed and Position with Rotary Encoder and PID Control</td>
-    <td> <a href="https://github.com/tutla53/dc-motor.git">dc-motor</a> </td>
-  </tr>
+  
 </table>
 
 
