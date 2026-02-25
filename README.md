@@ -10,8 +10,47 @@
 <img src ="https://m.media-amazon.com/images/S/abs-image-upload-na/d/AmazonStores/A1F83G8C2ARO7P/4087e55f2f303ebc54d6fa96c58fe3cc.w980.h290._CR0%2C47%2C980%2C196_SX980_.jpg" height=28)>
 <img src ="https://developer.espressif.com/img/espressif_logo_contour.png" height=28)>
 
+### Active Project:
+<table
+  <tr> 
+    <th> Project </th>
+    <th width=120> Board </th> 
+    <th> Description </th>
+    <th> Repository </th> 
+  </tr>
+
+  <tr> 
+    <td> DC Motor Control</td>
+    <td> Raspberry Pi Pico</td> 
+    <td> DC Motor Speed and Position Control with embassy-rs + Rust 🦀</td>
+    <td> <a href="https://github.com/tutla53/dc-motor.git">dc-motor</a> </td>
+  </tr>
+  
+  <tr> 
+    <td> Two DOF Camera Monitor </td> 
+    <td> Raspberry Pi Pico </td>
+    <td> Very simple 2 D.O.F camera monitor robot with two servo motors. This is my first project to use embassy-rs + Rust 🦀 for microcontroller </td>
+    <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a> </td>
+  </tr>
+  
+  <tr> 
+    <td> Bluetooth Remote Control </td>
+    <td> STM32F1 Blue Pill </td> 
+    <td> General purpose bluetooth remote control with HC-05 and STM32F1 Blue Pill with C and FreeRTOS</td>
+    <td> <a href="https://github.com/tutla53/remote-control-stm32.git">remote-control-stm32</a> </td>
+  </tr>
+  
+  <tr> 
+    <td> TCP Communication </td>
+    <td> ESP32-C3 & Raspberry Pi Pico W </td> 
+    <td> Project to test TCP communication between ESP32-C3 and Raspberry Pi Pico W with embassy-net + Rust 🦀</td>
+    <td> <a href="https://github.com/tutla53/tcp-comm.git">tcp-comm</a> </td>
+  </tr>
+  
+</table>
+
 ### Software Configuration
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.75&&card_width=10&line_height=10&exclude_repo=stm32f103c8t6,toki-tlx-c-solution" align="right"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutla53&layout=compact&theme=github_dark&hide=Makefile,CMake,RPC&size_weight=0.5&count_weight=0.75&&card_width=10&line_height=10&exclude_repo=stm32f103c8t6,toki-tlx-c-solution" align="right"/> -->
 
 <table>
   <tr> 
@@ -66,44 +105,3 @@
     <td> <a href= https://github.com/tutla53/embassy-rp-library.git>embassy-rp-library</a> </td>
   </tr>
 </table>
-
-### Active Project:
-<table
-  <tr> 
-    <th> Project </th>
-    <th width=120> Board </th> 
-    <th> Description </th>
-    <th> Repository </th> 
-  </tr>
-
-  <tr> 
-    <td> DC Motor Control</td>
-    <td> Raspberry Pi Pico</td> 
-    <td> Controlling DC Motor Speed and Position with Rotary Encoder and PID Control</td>
-    <td> <a href="https://github.com/tutla53/dc-motor.git">dc-motor</a> </td>
-  </tr>
-  
-  <tr> 
-    <td> Two DOF Camera Monitor </td> 
-    <td> Raspberry Pi Pico </td>
-    <td> Very simple 2 D.O.F camera monitor robot with two servo motors. This is my first project to use Rust + embassy-rs for microcontroller </td>
-    <td> <a href="https://github.com/tutla53/camera-monitor-robot">camera-monitor-robot</a> </td>
-  </tr>
-  
-  <tr> 
-    <td> Bluetooth Remote Control </td>
-    <td> STM32F1 Blue Pill </td> 
-    <td> General purpose bluetooth remote control with HC-05 and STM32F1 Blue Pill with the example to control Camera Monitor Project </td>
-    <td> <a href="https://github.com/tutla53/remote-control-stm32.git">remote-control-stm32</a> </td>
-  </tr>
-  
-  <tr> 
-    <td> TCP Communication </td>
-    <td> ESP32-C3 & Raspberry Pi Pico W </td> 
-    <td> Project to test TCP communication between ESP32-C3 and Raspberry Pi Pico W with embassy-net</td>
-    <td> <a href="https://github.com/tutla53/tcp-comm.git">tcp-comm</a> </td>
-  </tr>
-  
-</table>
-
-
