@@ -28,8 +28,8 @@
         <li> PID Motor Control</li>
         <li> Raw Byte Communication via USB CDC ACM</li>
         <li> Firmware Logger up to 1 kHz sampling frequency</li>
-        <li> Encoder Reading Method</li>
-        <li> Flash Storage</li>
+        <li> Encoder Reading Method via PIO</li>
+        <li> Flash Storage via <code>sequential-storage</code></li>
         <li> Multicore Operation</li>
       </ul>
       It use Python to communicate with the firmware API via serial communication. It's possible to scale up the project with another applications.
