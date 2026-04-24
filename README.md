@@ -27,6 +27,7 @@
       <ul>
         <li> PID Motor Control</li>
         <li> Raw Byte Communication via USB CDC ACM</li>
+        <li> Firmware Logger up to 1 kHz sampling frequency</li>
         <li> Encoder Reading Method</li>
         <li> Flash Storage</li>
         <li> Multicore Operation</li>
