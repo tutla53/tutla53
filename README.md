@@ -21,7 +21,18 @@
   <tr> 
     <td> DC Motor Control</td>
     <td> Raspberry Pi Pico</td> 
-    <td> DC Motor Speed and Position Control with embassy-rs + Rust 🦀</td>
+    <td> 
+      DC Motor Speed and Position Control with Raspberry Pi Pico RP2040 and embassy-rs 🦀.<br>
+      Main Features:
+      <ul>
+        <li> PID Motor Control</li>
+        <li> Raw Byte Communication via USB CDC ACM</li>
+        <li> Encoder Reading Method</li>
+        <li> Flash Storage</li>
+        <li> Multicore Operation</li>
+      </ul>
+      It use Python to communicate with the firmware API via serial communication. It's possible to scale up the project with another applications.
+    </td>
     <td> <a href="https://github.com/tutla53/dc-motor.git">dc-motor</a> </td>
   </tr>
   
