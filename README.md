@@ -32,7 +32,8 @@
         <li> Flash Storage via <code>sequential-storage</code></li>
         <li> Multicore Operation</li>
       </ul>
-      It use Python to communicate with the firmware API via serial communication. It's possible to scale up the project with another applications.
+      <br>
+      It use Rust on the desktop site to communicate with the firmware API via serial communication. It's possible to scale up the project with another applications.
     </td>
     <td> <a href="https://github.com/tutla53/dc-motor.git">dc-motor</a> </td>
   </tr>
